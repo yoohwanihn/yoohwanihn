@@ -22,4 +22,5 @@
   <a href="https://open.kakao.com/o/sq2VndWf" target="_blank"><img src="https://img.shields.io/badge/KAKAOTALK-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/></a>
   <a href="mailto:iibuzz@naver.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
   <a href="https://youtube.com/@user-bi5vt5lq4s" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+  <a href="https://yoohwanihn.github.io/" target="_blank"><img src="https://img.shields.io/badge/publons-336699?style=flat-square&logo=youtube&logoColor=white"></a>
 </div>
