@@ -24,3 +24,6 @@
   <a href="https://youtube.com/@user-bi5vt5lq4s" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
   <a href="https://yoohwanihn.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-336699?style=flat-square&logo=publons&logoColor=white"></a>
 </div>
+
+<hr/>
+https://yoohwanihn.tistory.com/
