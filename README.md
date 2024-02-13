@@ -26,4 +26,7 @@
 </div>
 
 <hr/>
-https://yoohwanihn.tistory.com/
+<div align=center>
+  https://yoohwanihn.tistory.com/
+</div>
+
