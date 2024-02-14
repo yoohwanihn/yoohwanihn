@@ -27,6 +27,9 @@
 
 <hr/>
 <div align=center>
-  https://yoohwanihn.tistory.com/
+  <div style="text-align: left;"> 
+    <a href=https://yoohwanihn.tistory.com/> 
+      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-    badge&logo=Tistory&logoColor=white&link=https://dinoqos.tistory.com/"> 
+    </a>
 </div>
 
